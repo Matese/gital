@@ -12,6 +12,4 @@ _Git and Ableton Live_.
 
 ### Leitura adicional
 
-- [Adicionar tradução em vídeos do youtube](https://www.rhbinformatica.com.br/dicas/aprenda-como-traduzir-videos-do-youtube)
-- [Documentar projeto com wikis](https://docs.github.com/en/github/building-a-strong-community/documenting-your-project-with-wikis)
 - [Sintaxe de markdown](https://guides.github.com/features/mastering-markdown/)
